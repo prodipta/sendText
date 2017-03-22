@@ -1,0 +1,13 @@
+Package: sendText
+Type: Package
+Title: Send Text As SMS Using Twilio API Service
+Version: 0.1.0
+Author: Prodipta Ghosh <prodiptag@gmail.com>
+Maintainer: Prodipta Ghosh <prodiptag@gmail.com>
+Description: Send a text as SMS to a mobile phone from R. This application uses Twilio API Services
+    An active Twilio account is needed. The SID and API token are hard-coded but can be changed  
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Imports: httr
