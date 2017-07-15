@@ -4,7 +4,7 @@ The goal of this R package (sendText) is to provide a method to use the Twilio r
 
 ## Installation
 
-You can install bsoption from github with:
+You can install from github with:
 
 ```R
 # install.packages("devtools")
